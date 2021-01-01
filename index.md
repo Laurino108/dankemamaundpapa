@@ -8,6 +8,13 @@ Ich möchte daran 2021 was ändern, doch das Jahr hat nicht wirklich gut angefan
 
 ![Image](https://i.ibb.co/4fFTyBg/IMG-20190620-WA0006.jpg)
 
+![Image](https://i.ibb.co/BGnDDV3/IMG-20190620-WA0035.jpg)
+
+![Image](https://i.ibb.co/BjFrNMq/IMG-20190620-WA0037.jpg)
+
+![Image](https://i.ibb.co/6XMHm3B/IMG-20190828-WA0006.jpg)
+
+
 ```markdown
 Syntax highlighted code block
 
@@ -28,10 +35,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Meine Vorsätzte
+-List
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Laurino108/dankemamaundpapa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Mehr mit meiner Familie machen!
+2. Freunde treffen (also auch raus gehen 🏞 😋)
+3. Nicht mehr so viel am Computer sein!
+4. Vielleicht ein bisschen Sport machen 👟🏅
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Ich hoffe, dass Ihr meine Entschuldigung annehmt!
+Und das wir auch wenn wir ein paar Start schwierigkeiten haben jetzt ein tolles Jahr haben!
