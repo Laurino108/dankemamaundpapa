@@ -15,28 +15,7 @@ Ich möchte daran 2021 was ändern, doch das Jahr hat nicht wirklich gut angefan
 ![Image](https://i.ibb.co/6XMHm3B/IMG-20190828-WA0006.jpg)
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Meine Vorsätzte
--List
 
 1. Mehr mit meiner Familie machen!
 2. Freunde treffen (also auch raus gehen 🏞 😋)
