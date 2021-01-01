@@ -21,8 +21,7 @@ Einer Familie wie sie im Bilderbuch steht! 📕😁
 
 1. Mehr mit meiner Familie machen!
 2. Freunde treffen (also auch raus gehen 🏞 😋)
-3. Nicht mehr so viel am Computer sein!
-4. Vielleicht ein bisschen Sport machen 👟🏅
+3. Vielleicht ein bisschen Sport machen 👟🏅
 
 ### Ich hoffe, dass Ihr meine Entschuldigung annehmt!
 
