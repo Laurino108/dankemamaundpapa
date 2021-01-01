@@ -22,5 +22,6 @@ Ich möchte daran 2021 was ändern, doch das Jahr hat nicht wirklich gut angefan
 3. Nicht mehr so viel am Computer sein!
 4. Vielleicht ein bisschen Sport machen 👟🏅
 
-##Ich hoffe, dass Ihr meine Entschuldigung annehmt!
+### Ich hoffe, dass Ihr meine Entschuldigung annehmt!
+
 Und das wir auch wenn wir ein paar Start schwierigkeiten haben jetzt ein tolles Jahr haben!
