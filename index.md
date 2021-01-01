@@ -6,6 +6,8 @@ Ich möchte daran 2021 was ändern, doch das Jahr hat nicht wirklich gut angefan
 
 ### Familienbilder
 
+Einer Familie wie sie im Bilderbuch steht! 📕😁
+
 ![Image](https://i.ibb.co/4fFTyBg/IMG-20190620-WA0006.jpg)
 
 ![Image](https://i.ibb.co/BGnDDV3/IMG-20190620-WA0035.jpg)
