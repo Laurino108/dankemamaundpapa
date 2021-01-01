@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hallo Mama & Papa
 
-You can use the [editor on GitHub](https://github.com/Laurino108/dankemamaundpapa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ich wollte einfach mal danke sagen, danke für alles, ihr seit immer für mich da wenn ich euch brauche. und doch schalte ich immer wieder schnell auf stuhr, nehme kaum am Familien leben teil!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ich möchte daran 2021 was ändern, doch das Jahr hat nicht wirklich gut angefangen, ich hoffe ihr könnt mir verzeien! 😥👪
 
 ### Markdown
 
